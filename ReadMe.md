@@ -18,7 +18,7 @@ There are already included the following modules in the pom.xml file:
 ## Usage
 
 ```
-git clone 
+git clone https://github.com/lirent/SpringBootTemplate.git
 ```
 
 ## Contributing
